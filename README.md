@@ -26,7 +26,7 @@ I did this because I do not interpret and empty line as a command and I think th
 
 - In the case of both > and >> appearing on the same line, I interpreted that as a syntax error exactly as if > and > were on the same line.
 
-##Research Resources
+## Research Resources
 * In Class Discussion
 * Course Reader:
 	- ~cs570/exec1.c page 3
