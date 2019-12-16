@@ -12,8 +12,8 @@ This project was an assignment from my OS class at SDSU. For this assignment we 
 >
 >hi
 >p2 terminated
->
->I did this because I do not interpret and empty line as a command and I think that this behaviour is more user friendly.
+
+I did this because I do not interpret and empty line as a command and I think that this behaviour is more user friendly.
 
 - In the input case of: echo hi <\&. I interpret the final \& as a metacharacter, which means this is a syntax error since the '>' wasn't given a filename.
 
